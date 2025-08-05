@@ -1,4 +1,4 @@
-package learning;
+package com.gdcg.udemy;
 
 public class SwapIntegers {
 	public static void main(String[] args) {
@@ -31,7 +31,7 @@ public class SwapIntegers {
 		System.out.println("After swapping a = " + a + ", b = " + b);
 
 	}
-	
+
 	/*
 	 * Example walk-through
 	 * 

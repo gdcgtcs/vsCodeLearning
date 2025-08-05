@@ -1,4 +1,4 @@
-package learning;
+package com.gdcg.udemy;
 
 public class DigitEvenOddCount {
 
