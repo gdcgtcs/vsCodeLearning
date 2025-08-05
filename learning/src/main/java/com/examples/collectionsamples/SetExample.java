@@ -15,6 +15,7 @@ public class SetExample {
         Set<String> hasSet = new HashSet<>();
         Set<String> treeSet = new TreeSet<>();
         Set<String> linkedHashSet = new LinkedHashSet<>();
+
         Map<String, Integer> map = new HashMap<>();
 
         List<String> items = Arrays.asList("Banana", "Apple", "Cherry");
@@ -29,6 +30,7 @@ public class SetExample {
         System.out.println("HashSet (no order): " + hasSet);
         System.out.println("TreeSet (sorted): " + treeSet);
         System.out.println("LinkedHashSet (insertion): " + linkedHashSet);
+
         System.out.println("HashMap (key, value): " + map);
 
     }
