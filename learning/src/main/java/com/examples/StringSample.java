@@ -54,7 +54,7 @@ public class StringSample {
          */
 
         StringBuffer stringBuffer = new StringBuffer("Hello");
-        stringBuffer.append(" World");
+        stringBuffer.append(" World!");
         System.out.println(stringBuffer);
 
         /*
