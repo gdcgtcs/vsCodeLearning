@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.formatOnSave": true,
+    "window.closeWhenEmpty": false,
+    "window.autoDetectColorScheme": false,
+    "workbench.activityBar.location": "default",
+    "breadcrumbs.showVariables": false,
+    "breadcrumbs.showTypeParameters": false
+}
